@@ -17,7 +17,7 @@ PHP client for SMSLabs.pl
 ## Installation
 The recommended way to install the library is through [Composer](http://getcomposer.org):
 ```sh
-$ composer require ittoolspl/php-lib-smslabs
+$ composer require jkb32/smslabs-php-sdk
 ```
 ## Usage
 **Constructor:**
