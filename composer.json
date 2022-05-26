@@ -1,5 +1,5 @@
 {
-  "name": "jkb32/php-lib-smslabs",
+  "name": "jkb32/smslabs-php-sdk",
   "description": "PHP client for SMSLabs.pl",
   "type": "library",
   "license": "MIT",
